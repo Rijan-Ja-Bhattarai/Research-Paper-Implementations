@@ -7,4 +7,4 @@ The repository can be used for educational purposes, new paper implementations a
 
 # Papers Being Implemented 
 * Human-Level Control through Deep Reinforcement Learning
-* * SimCLR
+* SimCLR
